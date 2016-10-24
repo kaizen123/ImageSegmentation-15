@@ -1,1 +1,3 @@
 # ImageSegmentation
+
+GrabCut and MeanShift
